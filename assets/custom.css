@@ -1,0 +1,17 @@
+.bg-dark{
+  font-family: Roboto;
+  background-image: url("/assets/Project 10.jpg");
+  'height':100% ;
+  background-repeat: no-repeat;
+  background-position: center-top;
+  background-size: cover
+  background-color: white;
+}
+.form-dropdown option
+{
+    background-image:-moz-linear-gradient(silver,black);
+    background-image:-webkit-linear-gradient(silver,black);
+    background-image:-o-linear-gradient(silver,black);
+    background-image:-ms-linear-gradient(silver,black);
+    background-image:linear-gradient(silver,black);
+}
